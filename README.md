@@ -1,0 +1,2 @@
+# No-GetAway
+This is a trojan. USE AT YOUR OWN RISK (I AM NOT RESPONCIBLE FOR ANY DAMAGE)
